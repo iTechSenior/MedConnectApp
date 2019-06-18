@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "msjsdiag.debugger-for-chrome",
+    "infeng.vscode-react-typescript",
+    "ms-vsliveshare.vsliveshare"
+  ]
+}

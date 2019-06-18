@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="Star_Normal" data-name="Star / Normal" transform="translate(-1150 390)">
+    <rect id="Rectangle_42" data-name="Rectangle 42" width="28" height="28" transform="translate(1150 -390)" fill="none"/>
+    <path id="star" d="M10,13.554l3.517,1.85-.672-3.917,2.846-2.774-3.932-.571L10,4.579,8.241,8.142l-3.932.571,2.846,2.774L6.483,15.4Zm0,2.26L3.827,19.06l1.179-6.875-5-4.868,6.9-1L10,.06l3.087,6.254,6.9,1-4.995,4.868,1.18,6.875Z" transform="translate(1153.99 -386.06)" fill="#b7b7b7"/>
+  </g>
+</svg>

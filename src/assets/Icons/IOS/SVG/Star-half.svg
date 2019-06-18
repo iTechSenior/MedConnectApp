@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.5" x2="0.86" y2="0.096" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc02d"/>
+      <stop offset="1" stop-color="#ffdb7a"/>
+    </linearGradient>
+  </defs>
+  <g id="Star-half" transform="translate(-1061 390)">
+    <rect id="Rectangle_41" data-name="Rectangle 41" width="28" height="28" transform="translate(1061 -390)" fill="none"/>
+    <path id="star-half-2" data-name="star-half" d="M10,15.814l6.173,3.246-1.179-6.875,5-4.868-6.9-1L10,.06,6.912,6.314l-6.9,1,4.995,4.868L3.825,19.06Zm0-2.26L6.482,15.4l.672-3.917L4.308,8.713,8.24,8.142,10,4.579l1.759,3.563,3.932.571-2.846,2.774.672,3.916ZM10,.06,6.912,6.314l-6.9,1,4.995,4.868L3.825,19.06,10,15.814Z" transform="translate(1064.99 -386.06)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

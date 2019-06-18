@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="GPS_Active" data-name="GPS / Active" transform="translate(-754 539)">
+    <rect id="Rectangle_37" data-name="Rectangle 37" width="28" height="28" transform="translate(754 -539)" fill="none"/>
+    <path id="crosshairs" d="M22.9,11.9H21.723A8.8,8.8,0,0,0,14.1,4.277V3.1a1.1,1.1,0,0,0-2.2,0V4.277A8.8,8.8,0,0,0,4.277,11.9H3.1a1.1,1.1,0,0,0,0,2.2H4.277A8.8,8.8,0,0,0,11.9,21.723V22.9a1.1,1.1,0,0,0,2.2,0V21.723A8.8,8.8,0,0,0,21.723,14.1H22.9a1.1,1.1,0,1,0,0-2.2ZM13,19.6A6.6,6.6,0,1,1,19.6,13,6.6,6.6,0,0,1,13,19.6Zm0-9.9A3.3,3.3,0,1,0,16.3,13,3.3,3.3,0,0,0,13,9.7Zm0,4.4A1.1,1.1,0,1,1,14.1,13,1.1,1.1,0,0,1,13,14.1Z" transform="translate(755 -538)" fill="#bcbcbc"/>
+  </g>
+</svg>

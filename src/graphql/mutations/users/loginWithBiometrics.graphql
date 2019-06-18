@@ -1,0 +1,19 @@
+mutation loginWithBiometrics($uuid: String!) {
+  loginWithBiometrics(uuid: $uuid) {
+    user {
+      id
+      firstName
+      lastName
+      email
+      roles {
+        name
+        type
+        permissions {
+          name
+          privileges
+        }
+      }
+    }
+    token
+  }
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Time" transform="translate(-859 540)">
+    <rect id="Rectangle_39" data-name="Rectangle 39" width="24" height="24" transform="translate(859 -540)" fill="none"/>
+    <path id="clock-eight" d="M9,2a8,8,0,1,0,8,8A8,8,0,0,0,9,2ZM9,16.4A6.4,6.4,0,1,1,15.4,10,6.4,6.4,0,0,1,9,16.4ZM9,5.2a.8.8,0,0,0-.8.8V9.536L6.52,10.5a.8.8,0,0,0,.8,1.392L9.4,10.7l.072-.072.128-.1a.688.688,0,0,0,.08-.128.712.712,0,0,0,.064-.136.52.52,0,0,0,.04-.16L9.8,10V6A.8.8,0,0,0,9,5.2Z" transform="translate(862 -538)" fill="#0c72ad"/>
+  </g>
+</svg>

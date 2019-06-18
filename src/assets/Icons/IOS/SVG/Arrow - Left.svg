@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="Arrow_-_Left_" data-name="Arrow - Left " transform="translate(-888 408)">
+    <rect id="Rectangle_45" data-name="Rectangle 45" width="28" height="28" transform="translate(888 -408)" fill="none"/>
+    <path id="arrow-right" d="M11.12,15.4a1.672,1.672,0,0,1,.351-.552l8.36-8.36a1.679,1.679,0,0,1,2.374,2.374l-5.518,5.5a2.278,2.278,0,0,0,0,3.344l5.518,5.5a1.679,1.679,0,1,1-2.374,2.374l-8.36-8.36A1.729,1.729,0,0,1,11.12,15.4Z" transform="translate(884.006 -409.996)" fill="#bcbcbc"/>
+  </g>
+</svg>

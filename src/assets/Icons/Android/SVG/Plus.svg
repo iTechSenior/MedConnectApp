@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Plus" transform="translate(-812 460)">
+    <path id="medkit" d="M10.4,18.587h1.4v1.4a1.4,1.4,0,0,0,2.793,0v-1.4h1.4a1.4,1.4,0,1,0,0-2.793h-1.4V14.4a1.4,1.4,0,0,0-2.793,0v1.4H10.4a1.4,1.4,0,0,0,0,2.793Z" transform="translate(811 -465)" fill="#fff"/>
+    <rect id="Rectangle_50" data-name="Rectangle 50" width="24" height="24" transform="translate(812 -460)" fill="none"/>
+  </g>
+</svg>
